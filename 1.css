@@ -230,6 +230,7 @@ footer{
 }
 .final ul li a{
     color: gray;
+    padding: 8px;
 }
 .final p{
    color: gray;
